@@ -1,0 +1,27 @@
+#wo {
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(129, 124, 124);
+    float: left;
+}
+
+#ren {
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(129, 124, 124);
+    margin-left: 30%;
+    margin-right: 4%;
+    padding-top: 5%;
+    float: left;
+}
+
+#heng {
+    margin-top: 4%;
+    clear: both;
+}
+
+#lei {
+    font-size: 20px;
+    color: rgb(129, 124, 124);
+    font-weight: bolder;
+}
